@@ -7,6 +7,6 @@
 
 ## 🚀 Day 2 — Dynamic Image Website
 
--Tech: HTML, CSS, JavaScript
--Features: Dynamic background images, next/prev slider, active thumbnails, modern UI
--Folder: Day2/
+- Tech: HTML, CSS, JavaScript
+- Features: Dynamic background images, next/prev slider, active thumbnails, modern UI
+- Folder: Day2/
