@@ -5,5 +5,8 @@
 - Features: Play/Pause, clean UI, audio control
 - Folder: Day1/
 
-## Day 2
-Coming soon...
+## 🚀 Day 2 — Dynamic Image Website
+
+-Tech: HTML, CSS, JavaScript
+-Features: Dynamic background images, next/prev slider, active thumbnails, modern UI
+-Folder: Day2/
