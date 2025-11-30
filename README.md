@@ -17,3 +17,9 @@
 - Tech: HTML, CSS, JavaScript
 - Features: Split layout (content + slider), image carousel, next/prev controls, responsive design, clean typography, nature-themed UI
 - Folder: Day3/
+
+## 🚀 Day 4 — Travel Website UI
+
+- Tech: HTML, CSS, JavaScript, ScrollReveal, AOS
+- Features: Hero section with traveler illustration, animated text, search form, mobile menu toggle, scroll animations, responsive layout, decorative background
+- Folder: Day4/
