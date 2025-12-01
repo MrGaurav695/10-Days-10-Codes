@@ -23,3 +23,9 @@
 - Tech: HTML, CSS, JavaScript, ScrollReveal, AOS
 - Features: Hero section with traveler illustration, animated text, search form, mobile menu toggle, scroll animations, responsive layout, decorative background
 - Folder: Day4/
+
+## 🚀 Day 5 — Music Streaming Platform UI
+
+- Tech: HTML, CSS, JavaScript
+- Features: Sidebar navigation with smooth animation, trending song section, genre grid, top songs list, full music player with controls, profile section, responsive layout (desktop/tablet/mobile)
+- Folder: Day5/
