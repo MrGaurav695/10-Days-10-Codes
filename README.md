@@ -29,3 +29,9 @@
 - Tech: HTML, CSS, JavaScript
 - Features: Sidebar navigation with smooth animation, trending song section, genre grid, top songs list, full music player with controls, profile section, responsive layout (desktop/tablet/mobile)
 - Folder: Day5/
+
+## 🚀 Day 6 — Dictionary Web App
+
+- Tech: HTML, CSS, JavaScript, Dictionary API
+- Features: Word search input, meaning + example display, synonyms & antonyms list, part-of-speech label, source link, responsive card UI, clean theme using CSS variables
+- Folder: Day6/
