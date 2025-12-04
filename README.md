@@ -40,3 +40,8 @@
 - Tech: HTML, CSS, JavaScript, TheMealDB API
 - Features: Recipe search, random recipe generator, ingredients list, cooking instructions, category & area tags, YouTube tutorial link, modal view, responsive recipe grid
 - Folder: Day7/
+
+## 🚀 Day 8 — Movie Web App
+- Tech: HTML, CSS, JavaScript, TMDB API
+- Features: Movie search, trending movies, movie cards with ratings, hover overview, modal with poster/cast/overview, responsive grid layout, Netflix-style theme, clean animations, error handling
+- Folder: Day8/
