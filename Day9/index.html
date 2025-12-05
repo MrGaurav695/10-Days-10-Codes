@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day9 - News App</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <nav class="glass-nav">
+        <div class="container nav-content">
+            <a href="#" class="logo">
+                <img src="./images/logo.png" alt="News Logo">
+            </a>
+
+            <ul class="nav-links">
+                <li class="nav-item" onclick="onNavItemClick('india')" id="india">India</li>
+                <li class="nav-item" onclick="onNavItemClick('technology')" id="technology">Technology</li>
+                <li class="nav-item" onclick="onNavItemClick('cricket')" id="cricket">Cricket</li>
+                <li class="nav-item" onclick="onNavItemClick('politics')" id="politics">Politics</li>
+            </ul>
+
+            <div class="search-box">
+                <input type="text" placeholder="Search latest news..." id="search-text">
+                <button id="search-button">Search</button>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="cards-container container flex" id="cards-container">
+    </main>
+
+    <template id="template-news-card">
+        <div class="news-card glass-card">
+            <img id="news-img" src="" class="news-img" alt="News Image">
+            <div class="card-content">
+                <h3 id="news-title"></h3>
+                <p id="news-desc"></p>
+                <span id="news-source" class="news-source"></span>
+            </div>
+        </div>
+    </template>
+
+</body>
+
+</html>
