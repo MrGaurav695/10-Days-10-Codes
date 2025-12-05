@@ -45,3 +45,8 @@
 - Tech: HTML, CSS, JavaScript, TMDB API
 - Features: Movie search, trending movies, movie cards with ratings, hover overview, modal with poster/cast/overview, responsive grid layout, Netflix-style theme, clean animations, error handling
 - Folder: Day8/
+
+## 🚀 Day 9 — News App
+- Tech: HTML, CSS, JavaScript, NewsAPI
+- Features: Live news search, latest-news-first, category filters, responsive cards, clean UI, hover effects, reusable templates
+- Folder: Day9/
