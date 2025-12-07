@@ -59,3 +59,9 @@
 - Tech: HTML, CSS, JavaScript, REST Countries API
 - Features: Country search, flag display, capital/continent info, population + currency + languages, glass UI theme, smooth animations, responsive layout, error handling
 - Folder: Day10/
+
+## 🚀 Day 11 — Job Portal App
+
+- Tech: HTML, CSS, JavaScript
+- Features: Job search, location filter, job categories, job cards with company logos, role & description view, sidebar navigation, filters (time, experience, job type, location), responsive layout, hover effects, clean professional UI
+- Folder: Day11/
