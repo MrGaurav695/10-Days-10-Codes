@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="style.css">
+    <title>Day11 - Shoes Website</title>
+</head>
+
+<body>
+    <div class="main-container">
+        <div class="navbar">
+            <a href="#" class="logo" data-aos="zoom-in" data-aos-duration="1000">
+                <img src="images/logo.png" alt="">
+            </a>
+            <ul id="sidemenu">
+                <li data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100"><a href="#" class="active">Home</a>
+                </li>
+                <li data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200"><a href="">About</a></li>
+                <li data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300"><a href="">Location</a></li>
+                <li data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400"><a href="">Pages</a></li>
+                <li data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500"><a href="">Contact</a></li>
+            </ul>
+            <div class="nav-btn" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="700">
+                <button class="login-btn">Login</button>
+                <button id="toggleBtn" class="toggle-btn">
+                    <img src="images/bar-icon.svg" alt="">
+                </button>
+            </div>
+        </div>
+        <div class="bottom-content">
+            <div class="bottom-left">
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-delay="900">Made for comfort. <br>
+                    Built for speed.</h1>
+                <p data-aos="fade-left" data-aos-duration="1000" data-aos-delay="1100">Give your feet the comfort and
+                    performance they deserve. Engineered for durability and crafted for style, our running shoes help
+                    you move faster, stay lighter, and feel better with every step.</p>
+                <div class="btn-sec">
+                    <button data-aos="fade-right" data-aos-duration="1000" data-aos-delay="1300">Shop Now</button>
+                    <button data-aos="fade-left" data-aos-duration="1000" data-aos-delay="1300">Category</button>
+                </div>
+            </div>
+            <div class="bottom-right">
+                <img src="images/bg-effact.png" alt="" class="bg-effect" data-aos="zoom-in" data-aos-duration="2000">
+                <img src="images/shoes-img.png" alt="" class="shoes-img" data-aos="zoom-out" data-aos-duration="2000">
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-container">
+
+            <div class="footer-col">
+                <img src="images/logo.png" class="footer-logo" alt="Logo">
+                <p>Your trusted partner for premium running shoes crafted for comfort, speed, and performance.</p>
+            </div>
+
+            <div class="footer-col">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Location</a></li>
+                    <li><a href="#">Pages</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Support</h3>
+                <ul>
+                    <li><a href="#">FAQ</a></li>
+                    <li><a href="#">Shipping Info</a></li>
+                    <li><a href="#">Return Policy</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Subscribe</h3>
+                <p>Join our newsletter for updates & offers.</p>
+                <div class="footer-newsletter">
+                    <input type="email" placeholder="Enter email">
+                    <button>Submit</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>© 2025 Running Shoes. All Rights Reserved. <br>Crafted by Gaurav Shirsath</p>
+        </div>
+    </footer>
+
+    <script>
+        const toggleBtn = document.getElementById("toggleBtn")
+        const sideMenu = document.getElementById("sidemenu")
+
+        toggleBtn.addEventListener("click", () => {
+            sideMenu.classList.toggle("active")
+        })
+    </script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init({ offset: 0 });
+    </script>
+
+</body>
+</html>
