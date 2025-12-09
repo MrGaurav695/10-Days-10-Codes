@@ -71,3 +71,9 @@
 - Tech: HTML, CSS
 - Features: Modern hero section, clean navigation bar, course cards with pricing, discounts & authors, search bar, student comments section, weekly podcast cards, blog article grid, responsive layout, hover animations, organized content sections, structured footer with social links, professional UI design
 - Folder: Day12/
+
+## 🚀 Day 13 — File Sharing Platform Dashboard
+
+- Tech: HTML, CSS, JavaScript
+- Features: Sidebar navigation with icons, responsive search bar with filters, quick-access cards, recent files table with hover states, user profile dropdown, circular storage progress indicator (conic gradient), upload button + premium upgrade box, clean SaaS-style UI, smooth animations, fully responsive dashboard layout
+- Folder: Day13/
