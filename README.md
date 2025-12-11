@@ -83,3 +83,11 @@
 - Tech: HTML, CSS, JavaScript
 - Features: Hero section with dotted background, headline/subheading, CTA buttons, and a centered search bar. Popular courses displayed in colorful responsive cards with hover effects. Clean typography, polished spacing, and fully responsive layout for a smooth learning platform UI.
 - Folder: Day14/
+
+## 🚀 Day 15 — Video Sharing Platform Dashboard
+
+- Tech: HTML, CSS, JavaScript
+- Features: Three-panel dashboard layout with sidebar navigation, search header, and a dynamic video banner. Auto-play videos on hover, category filters, and discover section with responsive video cards. Right sidebar includes profile panel, playlist preview, current player, and weekly popular videos. Smooth transitions, modern shadows, clean spacing, and fully responsive design for a real media-platform experience.
+- Folder: Day15/
+
+-------------------------------Thanks for following my 15-day journey — more exciting projects coming soon!----------------------------------------------------------------
